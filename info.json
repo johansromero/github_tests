@@ -1,5 +1,6 @@
 {
     "name": "random name",
     "id": 15324,
-    "address":"Random Ave 154"
+    "address":"Random Ave 154",
+    "special_symbol": "ñ"
 }
